@@ -5,4 +5,6 @@ Here You can find my projects which I prepared for my Machine Data Analysis labs
 
 - **SVD** -> Singular Value Decomposition represented at trivial example and at the image,
 
-- **Inertion-Silhouette** -> A program that thanks to inertion and silhouette score will help to decide what is the most optimal number of colors to reproduce the image.
+- **Inertion-Silhouette** -> A program that thanks to inertion and silhouette score will help to decide what is the most optimal number of colors to reproduce the image,
+
+- **PCA** -> Principal component analysis, represented at wine data set, representation how PCA works.
